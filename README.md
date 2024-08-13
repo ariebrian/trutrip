@@ -68,15 +68,17 @@ Before you begin, ensure you have the following software installed:
    ```
 
 ## Running Application
+    
     ```bash
         php artisan:serve
     ```
     Visit http://localhost:8000 in your browser to see the application in action.
 
 ## Running Unit Test
+    
     ```bash
-    php artisan:test 
-   ```
+        php artisan:test
+    ```
 
 ## License
 
