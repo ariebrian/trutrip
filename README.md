@@ -67,18 +67,25 @@ Before you begin, ensure you have the following software installed:
     php artisan:migrate
    ```
 
-## Running Application
-    
-    ```bash
-        php artisan:serve
-    ```
-    Visit http://localhost:8000 in your browser to see the application in action.
+## Running The Application
 
-## Running Unit Test
-    
-    ```bash
-        php artisan:test
-    ```
+1. **Run**
+
+   ```bash
+   php artisan:serve
+   ```
+
+2. **Visit**
+
+   Visit http://localhost:8000 in your browser to see the application in action.
+
+## Testijg
+
+1. **Unit Test**
+
+   ```bash
+   php artisan:test
+   ```
 
 ## License
 
